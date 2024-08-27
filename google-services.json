@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976295142326",
+    "project_id": "coopsetec-31f72",
+    "storage_bucket": "coopsetec-31f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976295142326:android:4b21e2a2a4467ce7eb5717",
+        "android_client_info": {
+          "package_name": "com.coopsetec.coopsetec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBamsfDBuK9WUJyNZYOJSD-gQ7vEva7nQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

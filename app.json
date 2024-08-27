@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "coopsetec2",
-    "slug": "coopsetec2",
-    "version": "1.0.7",
+    "name": "creecer",
+    "slug": "creecer",
+    "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo2.png",
     "userInterfaceStyle": "light",
@@ -34,16 +34,16 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.coopsetec2.coopsetec2",
+      "package": "com.creecer.creecer",
       "googleServicesFile": "google-services.json",
-      "versionCode": 7
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "6845624c-a0c0-4963-8056-bb682dd8c5e4"
+        "projectId": "a432b9fb-773c-4dbc-932f-a40e0db67188"
       }
     }
   }

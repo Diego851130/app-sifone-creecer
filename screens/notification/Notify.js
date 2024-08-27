@@ -16,6 +16,7 @@ Notifications.setNotificationHandler({
 });
 
 export default function Notify() {
+    console.log('Notificacion')
     const [expoPushToken, setExpoPushToken] = useState('');
     const [channels, setChannels] = useState([]);
     const [notification, setNotification] = useState(
@@ -74,7 +75,7 @@ export default function Notify() {
 
                     if (token) {
                         setExpoPushToken(token)
-
+                            console.log('expotoken', token)
                         const saveExpoToken = async () => {
                             try {
                                 await AsyncStorage.setItem('@expoToken', token)
