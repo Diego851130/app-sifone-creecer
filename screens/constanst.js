@@ -1,0 +1,1 @@
+export default backgroundCustom = '#004E83'
